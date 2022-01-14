@@ -1,16 +1,16 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "1.0.0",
-	"SemVersion": "1.0.0",
-	"FriendlyName": "x3_lights",
-	"Description": "Cheap Lights",
+	"VersionName": "1.1.0",
+	"SemVersion": "1.1.0",
+	"FriendlyName": "X3 Lights",
+	"Description": "Cheaper vanilla lights with lower power consumption and additional power links",
 	"Category": "Modding",
-	"CreatedBy": "x3008x",
-	"CreatedByURL": "",
+	"CreatedBy": "x3008x, VoxTenebris",
+	"CreatedByURL": "https://github.com/Rick86/X3_Lights",
 	"DocsURL": "",
 	"MarketplaceURL": "",
-	"SupportURL": "",
+	"SupportURL": "https://ficsit.app/mod/5WvQy4BLqNTu7n",
 	"CanContainContent": true,
 	"IsBetaVersion": false,
 	"IsExperimentalVersion": false,
@@ -18,7 +18,7 @@
 	"Plugins": [
 		{
 			"Name": "SML",
-			"SemVersion": "^3.0.0",
+			"SemVersion": "^3.3.0",
 			"bIsOptional": false,
 			"Enabled": true
 		}
